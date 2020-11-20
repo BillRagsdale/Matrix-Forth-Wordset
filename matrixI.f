@@ -254,6 +254,8 @@ cr .( Test of transpose)
 g{ }list g{ }transpose
 g{ }list
 
+\s 
+
 3 3 create{F  J{    J{ {[ 2 -5 3 | 0 7 -2 | -1 4 1 ]}
 
 : }det   ( addr r c #  --- f: determinate )
