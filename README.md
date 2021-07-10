@@ -1,6 +1,6 @@
 # Matrix-Forth-Wordset
 Matrix wordset for Forth,  still under rapid evolution
-This wordset is buit on Win32Forth.
+This wordset is buit on Win32Forth. The mostrecent release as of July 9, 2021 is Matrix Two-J.f
 It is rapidly evolving.  The  Matrix.f file works and is useful.
 More will be following.
 See the accompanying PowerPoint file.
